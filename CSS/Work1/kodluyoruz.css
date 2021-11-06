@@ -1,0 +1,19 @@
+h2 {
+    color:crimson;
+    font-size: larger; 
+}
+p{
+    color:green;
+    font-size:45px;
+
+}
+
+body{
+    background-color: grey
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    color: blue;
+}
+
