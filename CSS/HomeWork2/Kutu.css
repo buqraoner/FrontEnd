@@ -1,20 +1,38 @@
-.kutu
+.SearchKutu
 {
-  height: auto;
-  width: 550px;
-    padding: 15px;
-    border: 0px solid gray;
-    margin: 15px;
-    background-color: gray;
+    width: auto;
+    height: auto;
+
+    margin-left: 25px;
+    margin-right: 25px;
+
+    background-color: #c8c8c8;
+
 }
 
-
-
-.kutu2
+.AnaKutu
 {
-  width: 220px;
-    height:200px;
-    border: 5px solid #000;
-    background-color:#ff6600;
+  margin-top: 5px;
+margin-right: 25px;
+margin-left: 25px;
+height: 100px;
+width: auto;
 
+background-color: white;
+}
+.LeftPath
+{
+  width: 500px;
+  height: 100px;
+  background-color: #31f5ff;
+}
+
+.OrtaKutu
+{
+  background-color: blue;
+}
+
+.RightPath
+{
+  background-color: black;
 }
