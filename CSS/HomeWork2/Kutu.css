@@ -1,3 +1,8 @@
+
+
+
+
+
 .SearchKutu
 {
     width: auto;
@@ -10,29 +15,57 @@
 
 }
 
-.AnaKutu
-{
-  margin-top: 5px;
-margin-right: 25px;
-margin-left: 25px;
-height: 100px;
-width: auto;
 
-background-color: white;
-}
-.LeftPath
-{
-  width: 500px;
-  height: 100px;
-  background-color: #31f5ff;
+.BaseCont{
+  width: auto;
+  height: auto;
+  margin-top: 2px;
+  margin-left: 25px;
+  margin-right: 25px;
+  background-color: #c8c8c8;
+
 }
 
-.OrtaKutu
-{
-  background-color: blue;
+
+
+
+
+.cont1{
+    background-color:rgb(126, 229, 218) ;
+    float: left;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 200px;
+    margin-left:  25px;
+    height: 80px;
+    font-size: 13px;
+
 }
 
-.RightPath
-{
-  background-color: black;
+.cont2{
+    background-color: rgb(112, 204, 194) ;
+    float: left;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+    height: 70px;
+    font-size: 13px;
+    padding-left: 185px;
+    padding-right: 104px;
+    padding-top:10px;
+}
+
+.cont3{
+float: left;
+background-color: rgb(112, 204, 194) ;
+padding-left: 400px;
+padding-right: 40px;
+font-size: 13px;
+margin-left: 2px;
+height: 70px;
+padding-top:10px;
+
+
+
+
 }
