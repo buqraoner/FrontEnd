@@ -1,3 +1,3 @@
 # Google 1998
 
-!(https://www.hizliresim.com/bkkptkh)
+![](https://i.hizliresim.com/bkkptkh.png)
