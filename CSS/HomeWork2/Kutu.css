@@ -34,8 +34,8 @@
     background-color:rgb(126, 229, 218) ;
     float: left;
     text-align: center;
-    padding-left: 300px;
-    padding-right: 200px;
+    padding-left: 250px;
+    padding-right: 250px;
     margin-left:  25px;
     height: 80px;
     font-size: 13px;
@@ -46,20 +46,21 @@
     background-color: rgb(112, 204, 194) ;
     float: left;
     text-align: center;
-    margin-left: 2px;
+    margin-left: 1px;
     margin-right: 2px;
     height: 70px;
     font-size: 13px;
-    padding-left: 185px;
-    padding-right: 104px;
+    padding-left: 175px;
+    padding-right: 114px;
     padding-top:10px;
 }
 
 .cont3{
 float: left;
+text-align: center;
 background-color: rgb(112, 204, 194) ;
-padding-left: 400px;
-padding-right: 40px;
+padding-left: 151px;
+padding-right: 151px;
 font-size: 13px;
 margin-left: 2px;
 height: 70px;
