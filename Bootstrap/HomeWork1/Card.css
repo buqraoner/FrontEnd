@@ -1,0 +1,35 @@
+.container{
+    
+    width: auto;
+    height: auto;
+    
+    background-color: lightgray;
+
+    grid-column-gap: 30px;
+    grid-row-gap: 50px;
+    display: grid;
+    grid-template-columns: 350px 350px 350px ;
+    grid-template-rows: 400px 400px 4px;
+    
+  }
+  .item-1{
+    background-color: white;
+  }
+  .item-2{
+    background-color: white;
+  }
+  .item-3{
+    background-color: white;
+  }
+  .item-4{
+    background-color: white;
+  }
+  .item-5{
+    background-color: white;
+  }
+  .item-6{
+    background-color: white;
+  }
+
+
+
