@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana sayfa</title>
+
+ <style>
+     p{
+        color: red;
+
+     }
+ </style>
+</head>
+<body style="background-color: purple;">
+
+    <p>Burası bir paragraf</p>
+
+    <!-- Ekrana yazdırma işlemi;
+
+HTML nesnelerine yazdırma – innerHTML,
+HTML sayfasına yazdırma – document.write(),
+Uyarı pencersine yazdırma – alert(),
+Tarayıcı konsoluna yazdırma – console.log()
+
+-->
+
+
+<p id="p1"></p>
+
+<script>
+  document.getElementById("p1").innerHTML = "Merhaba JavaScript";
+</script>
+
+<p> JavaScript komutlarını test etmek ve sonuçları ekrana hızlı bir şekilde yazdırmak için document.write() metodu kullanılır.</p>
+
+<script>
+
+    document.write("Merhaba Javascript");
+
+</script>
+
+
+<p style="color: red;">document.write() metodu bir olay sonucu kullanılırsa saydaki tüm HTML elemanları silinecektir.
+</p>
+
+<button onclick="document.write('Merhaba JavaScript')">Buraya tıkla</button>
+
+
+
+<p style="color: red;">Alert Kullanımı </p> 
+
+<script>
+    alert("Alert Kullanımı");
+</script>
+
+
+<p style="color: black; "> <strong>Console.Log kullanımı</strong></p>
+
+
+<script>
+    console.log("Console.Log kullanımı");
+</script>
+
+
+
+
+
+    
+</body>
+</html>
