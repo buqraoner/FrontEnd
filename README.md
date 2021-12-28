@@ -1,4 +1,4 @@
-![Adsız](C:\Users\bolet\OneDrive\Masaüstü\Adsız.png)
+![Adsız](https://www.hizliresim.com/4ei92t3)
 
 
 
