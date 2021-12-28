@@ -1,4 +1,4 @@
-![Adsız](https://www.hizliresim.com/4ei92t3)
+![Adsız](https://i.hizliresim.com/4ei92t3.png)
 
 
 
