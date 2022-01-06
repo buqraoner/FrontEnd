@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<script>
+    const person = [{
+  name: "Adem",
+  age: 25,
+  languages: ["JavaScript", "CSS"],
+},
+{
+  name: "Oğuz",
+  age: 33,
+  languages: ["Java", "HTML"],
+  }
+];
+
+// Soru 1: Yukarıdaki diziyi kullanarak filter() metodu ile yaşı 30'dan büyük olan kişiyi getirin.
+
+// Soru 2: Yukarıdaki diziyi kullanarak filter() metodu ile JavaScript bilen kişiyi getirin.
+console.log("Yaşı 30'dan büyük olanlar");
+const newUsers30 =  person.filter(perso => perso.age > 30)
+console.log(newUsers30);
+
+
+console.log("Javascript Bilenler");
+const javaScriptKnow = person.filter(js => js.name === "Adem")
+console.log(javaScriptKnow);
+
+
+</script>
+
+
+</body>
+</html>
