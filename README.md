@@ -4,17 +4,17 @@
 
 ------
 
+## 
 
-
-- **Visual Studio Code**
-- **GIT**
-- **HTML**
-- **CSS**
-- **Bootstrap**
-- **Veri Yapıları ve Algoritmalar**
-- **JavaScript**
-- **İleri Seviye GIT**
-- **React**
+- **Visual Studio Code**	✔	
+- **GIT**    ✔
+- **HTML** ✔
+- **CSS**    ✔
+- **Bootstrap** ✔
+- **Veri Yapıları ve Algoritmalar** ✔
+- **JavaScript** ✔
+- **İleri Seviye GIT** ✔
+- **React** 
 - **Redux**
 - **Deployment**
 - **Yazılım Mühendisliği 101**
