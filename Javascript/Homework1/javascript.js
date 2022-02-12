@@ -5,15 +5,15 @@
 
 var kullanici = prompt("Adiniz nedir : ");
 
-document.getElementById("myName").innerHTML =kullanici;
+document.getElementById("myName").innerHTML = kullanici;
 
-var zaman =new Date();
-var saat=zaman.setHours();
-var dakika=zaman.setMinutes();
-var saniye=zaman.getSeconds();
-
-
+var zaman = new Date();
+var saat = zaman.setHours();
+var dakika = zaman.setMinutes();
+var saniye = zaman.getSeconds();
 
 
-let myClock=document.querySelector("#myClock");
-myClock.innerHTML=`${saat}: ${dakika}: ${saniye}`
+
+
+let myClock = document.querySelector("#myClock");
+myClock.innerHTML = `${saat}: ${dakika}: ${saniye}`
